@@ -1,0 +1,19 @@
+{
+  "name": "GraphQL_apollo_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.7.0"
+  },
+  "dependencies": {
+    "apollo-server": "^3.12.1"
+  }
+}
